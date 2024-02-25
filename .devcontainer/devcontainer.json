@@ -1,0 +1,6 @@
+{
+	"name": "WordPress",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "web",
+	"workspaceFolder": "/var/www/html"
+}
